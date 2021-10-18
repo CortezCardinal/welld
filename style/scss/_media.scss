@@ -475,7 +475,10 @@
 	    margin-left: -3px;
 	}
 
-
+	.menu__link_pc
+	{
+		display: none;
+	}
 
 
 
@@ -496,6 +499,10 @@
 	}
 	#num__title-2-mob,
 	#num__title-3
+	{
+		display: none;
+	}
+	.menu__link_mob
 	{
 		display: none;
 	}

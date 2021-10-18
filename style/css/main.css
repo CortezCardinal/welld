@@ -1078,7 +1078,10 @@ p {
 
   .gallery-mob .owl-item {
     padding-right: 10px;
-    margin-left: -3px; } }
+    margin-left: -3px; }
+
+  .menu__link_pc {
+    display: none; } }
 @media (min-width: 550px) {
   .services-mob {
     display: none; }
@@ -1088,6 +1091,9 @@ p {
 
   #num__title-2-mob,
   #num__title-3 {
+    display: none; }
+
+  .menu__link_mob {
     display: none; } }
 
 /*# sourceMappingURL=main.css.map */
