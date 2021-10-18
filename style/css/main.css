@@ -1083,6 +1083,9 @@ p {
   .services-mob {
     display: none; }
 
+  .gallery-mob {
+    display: none; }
+
   #num__title-2-mob,
   #num__title-3 {
     display: none; } }
