@@ -1,0 +1,147 @@
+.header__container
+{
+	background: url("../img/bg/header-bg.jpg") no-repeat center top/cover
+}
+.header-logo
+{
+	max-height: 90px;
+	max-width: 117px;
+}
+.header__body
+{
+	padding-top: 80px;
+	padding-bottom: 88px;
+}
+.heder__title-body
+{
+	padding-top: 110px;
+	max-width: 503px;
+}
+.header__title
+{
+	text-transform: uppercase;
+}
+.header-form
+{
+	padding-top: 53px;
+}
+.header__subtitle
+{
+	padding-top: 22px;
+	color: #625B54 ;
+	font-size: 14px;
+	font-family: Roboto-Regular;
+}
+.header-form__input
+{
+	color: #625B54;
+	font-size: 17px;
+	border-bottom: 1px solid #888178;
+	background-color: transparent;
+	width: 232px;
+}
+.header-form__button-body
+{
+	padding-top: 38px;
+}
+.header-form__button
+{
+	cursor: pointer;
+	background-color: transparent;
+    padding: 11px 40px;
+    border-radius: 50px;
+    border: 1px solid #746D65;
+}
+.heder__menu-button-body
+{
+	position: fixed;
+	cursor: pointer;
+	right: 100px;
+	top: 55px;
+}
+.heder__menu-list-text
+{
+	font-size: 24px;
+}
+.bold-t
+{
+	font-family: Roboto-Regular;
+}
+.heder__menu-list
+{
+	width: 593px;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	right: 0;
+	transition: transform 0.4s;
+ 	transform: translateX(100%);
+ 	z-index: 9;
+}
+.menu__link,
+.header__menu-cross-body,
+.heder__menu-button-body
+{
+	cursor: pointer;
+
+}
+.heder__menu-list-items
+{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+    height: 100%;
+}
+
+ 
+.heder__menu-list-text
+{
+	width: 178px;
+	height: 100%;
+}
+.heder__menu-list-item
+{
+	height: 100%;
+	width: 100%;
+}
+.heder__menu-list-item-text
+{
+ 
+    background-color: #E7DDDD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heder__menu-list-item-menu{
+	height: 100%;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.menu__link
+{
+	font-size: 24px;
+	font-family: Roboto-Regular;
+	color: #ADA89F;
+	text-transform: uppercase;
+	padding-bottom: 15px;
+	text-align: end;
+}
+.header__menu-cross-body
+{
+	position: absolute;
+    top: 65px;
+        right: 108px;
+}
+
+.heder__menu-list_active
+{
+	transform: translateX(0%);
+}
+.bold-p
+{
+	text-decoration: underline;
+}

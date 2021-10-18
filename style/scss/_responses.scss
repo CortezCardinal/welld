@@ -1,0 +1,44 @@
+.responses
+{
+	padding-top: 100px;
+	padding-bottom: 145px;
+}
+.responses__title
+{
+	color: #625B54;
+}
+.responses__slider-text
+{
+	padding-bottom: 20px;
+}
+.responses__slider-body
+{
+	max-width: 1160px;
+    padding-top: 78px;
+    margin:0 auto;
+}
+.responses__slider-text,
+.responses__slider-name,
+.responses__slider-company
+{
+	color: #625B54;
+}
+.slider-arrow
+{
+	position: absolute;
+    top: 60%;
+    cursor: pointer;
+}
+#slider-arrow-r
+{ 
+    right: -3.5%;
+}
+#slider-arrow-l
+{
+    left: -4.5%;
+}
+
+ .responses__slider-body
+ {
+ 	position: relative;
+ }

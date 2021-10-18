@@ -1,0 +1,43 @@
+.num__item-body
+{
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1234px;
+    margin: 0 auto;
+}
+.num__item
+{
+	padding: 52px 0;
+	border-top: 0.5px solid #888178;
+}
+
+.num__description
+{
+	max-width: 656px;
+}
+.num__title
+{
+	max-width: 245px;
+}
+
+
+
+
+
+
+
+.num__number
+{
+	font-size: 96px;
+}
+.num__title,
+.num__description,
+.num__number
+{
+	color: #625B54;
+}
+.num__title
+{
+	text-transform: uppercase;
+}
