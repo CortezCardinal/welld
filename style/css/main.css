@@ -844,7 +844,7 @@ p {
   .menu__link {
     font-size: 18px;
     text-align: start;
-    padding-left: 22px; }
+    padding: 12px 22px; }
 
   h1, h2 {
     font-size: 35px; }
